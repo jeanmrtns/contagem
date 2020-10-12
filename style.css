@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(39, 107, 233);
+    width: 800px;
+    margin: auto;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+section div {
+    margin: 10px;
+}
+
+section input[type='submit']{
+    margin: 5px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
